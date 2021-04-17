@@ -1,0 +1,22 @@
+{
+	"name": "compendium-import-file",
+	"title": "Compendium Import File",
+	"description": "Module to allow import/export compendium contents.",
+	"version": "1.0.0",
+	"author": "Léo CARRASCO",
+	"esmodules": ["main.js"],
+	"styles": [],
+	"packs": [],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "langs/en.json"
+		}
+	],
+	"minimumCoreVersion": "0.7.0",
+	"compatibleCoreVersion": "0.7.9",
+
+	"url": "https://github.com/carrasco-leo/foundryvtt-compendium-import-file",
+	"manifest": "https://raw.githubusercontent.com/carrasco-leo/foundryvtt-compendium-import-file/master/config/module.json"
+}
